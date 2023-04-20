@@ -3,11 +3,11 @@ import streamlit
 
 streamlit.title('My parents new healthy dinner')
 
-streamlit.title('Breakfast Menu')
+streamlit.Header('Breakfast Menu')
 
-streamlit.title('Oats and Milk')
+streamlit.text('Oats and Milk')
 
 
-streamlit.title('Fresh fruits and Vegetables')
+streamlit.text('Fresh fruits and Vegetables')
 
-streamlit.title('Almonds and nuts')
+streamlit.text('Almonds and nuts')
