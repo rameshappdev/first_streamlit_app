@@ -3,7 +3,7 @@ import streamlit
 
 streamlit.title('My parents new healthy dinner')
 
-streamlit.Header('Breakfast Menu')
+streamlit.header('Breakfast Menu')
 
 streamlit.text('Oats and Milk')
 
